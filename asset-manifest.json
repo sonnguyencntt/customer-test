@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "./static/css/main.53669210.css",
+    "main.js": "./static/js/main.61201ac5.js",
+    "static/media/laptop-gbbedcf24d_1920.jpeg": "./static/media/laptop-gbbedcf24d_1920.81c65f6e4195c2e50ce5.jpeg",
+    "index.html": "./index.html",
+    "main.53669210.css.map": "./static/css/main.53669210.css.map",
+    "main.61201ac5.js.map": "./static/js/main.61201ac5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53669210.css",
+    "static/js/main.61201ac5.js"
+  ]
+}
